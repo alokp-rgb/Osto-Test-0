@@ -1,0 +1,10 @@
+{
+  "name": "osto-container-scan-test",
+  "version": "1.0.0",
+  "description": "Test repo for container and dependency scanning",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0",
+    "express": "4.16.0"
+  }
+}
